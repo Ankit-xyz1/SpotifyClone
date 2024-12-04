@@ -1,0 +1,33 @@
+.flex{
+    display: flex;
+}
+.column{
+    flex-direction: column;
+}
+.row{
+    flex-direction: row;
+}
+
+.gap{
+    gap: 7px;
+}
+
+.align-center{
+    align-items: center;
+}
+.justify-center{
+    justify-content: center;
+}
+.justify-end{
+    justify-content: end;
+}
+.mt7{
+    margin-top: 7px;
+}
+.hidden{
+    display: none;
+}
+
+.none{
+    text-decoration: none;
+}
